@@ -10,7 +10,7 @@
 
 ---
 
-Распаковать архи в новую папку. Запустить тестовые "run_demo_gui.bat" или "run_test_pip_git.bat".
+Распаковать архи в новую папку. Запустить тестовые "**run_demo_gui.bat**__" или "**run_test_pip_git.bat**__".
 
 > Unzip the archive nto a new folder. Start "run_demo_gui.bat" or "run_test_pip_git.bat" for testing.
 
