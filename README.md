@@ -2,6 +2,8 @@
 > **Embedded python 3.10 package with built PIP & GIT for Windows with GUI test!**
 ---
 
+![Graphic test result](test_result.png)
+
 Для разработчиков Python-приложений: пустой портабельный пакет "Python+PIP+GIT" со всеми настройками и тестовыми bat-файлами. Тест графического интерфейса!
 
 > For Python application developers: empty portable packages "Python+PIP+GIT" with all settings and bat files for testing. с
