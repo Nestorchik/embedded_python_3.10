@@ -1,6 +1,6 @@
-##Embedded python 3.10 package with built PIP & GIT for Windows with GUI test!
+#Embedded python 3.10 package with built PIP & GIT for Windows with GUI test!
 
-##Портабельная версия питона 3.10 с GIT и PIP для Windows с тестом графического интерфейса!
+#Портабельная версия питона 3.10 с GIT и PIP для Windows с тестом графического интерфейса!
 
 ---
 
