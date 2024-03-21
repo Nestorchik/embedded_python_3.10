@@ -6,7 +6,7 @@
 
 Для разработчиков Python-приложений: пустой портабельный пакет "Python+PIP+GIT" со всеми настройками и тестовыми bat-файлами. Тест графического интерфейса!
 
-> For Python application developers: empty portable packages "Python+PIP+GIT" with all settings and bat files for testing. с
+> For Python application developers: empty portable packages "Python+PIP+GIT" with all settings and bat files for testing GUI-interface!
 
 ---
 
