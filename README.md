@@ -16,7 +16,7 @@
 
 ---
 
-Дальше объяснять не буду, сами все поймете, смотрите bat-фалы.
+Дальше объяснять не буду, сами все поймете, смотрите bat-фалы
 
 > I will not explain further, you will understand everything yourself, see bat-files.
 
